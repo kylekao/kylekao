@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kylekao
 - 👀 I’m interested in R, python
-- 🌱 I’m currently learning R, mySQL,python, Tableau, Quartrics
+- 🌱 I’m currently learning R, mySQL, python, Tableau, Quartrics, KNIME
 - 📫 How to reach me skao3@dons.usfca.edu
 
 <!---
