@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 ##### [Individual Market Intelligence Resource Report](https://github.com/kylekao/kylekao/blob/main/Individual%20Market%20Intelligence%20Resource%20Presentation.pdf) - introduce a specific Marketing Intelligence resource (such as a database and insights) that assigned by professor with brief summarize and introduction of how to manipulate the resource for research usage.
 
 ### D.Global Marketing
-##### [Global Marketing_Germany Presentation - Presentaiton about investing in Germany](https://github.com/kylekao/kylekao/blob/main/Global%20Marketing_Germany%20Presentation.pdf)
+##### [Global Marketing_Germany Presentation ](https://github.com/kylekao/kylekao/blob/main/Global%20Marketing_Germany%20Presentation.pdf)- Presentaiton about investing in Germany]
 ##### [Global Marketing_Case Study Presentation-COSTA RICAN](https://github.com/kylekao/kylekao/blob/main/Global%20Marketing_Case%20Study%20Presentation-COSTA%20RICAN%20SW.pdf) -Case study of Costa Rican Software
 ### E.Survey Design & Data Collection
 1. Qualtrics Link : https://usfca.qualtrics.com/jfe/form/SV_3r5M3BP3jzI2j1s
