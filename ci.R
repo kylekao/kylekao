@@ -1,0 +1,22 @@
+library(ggplot2)
+library(afex)
+library(emmeans)
+library(dplyr)
+library(car)
+library(corrplot)
+ci.df = read.csv('C:\\R\\Consumer Insights.csv', header = T)
+str(ci.df)
+table(ci.df$ci_booking)
+table(ci.df$ci_purpose)
+table(ci.df$ci_decision)
+table(ci.df$ci_overnight)
+table(ci.df$ci_photogenuity)
+table(ci.df$ci_postdescription)
+
+
+corrplot(cor(ci.df[,c(8,9:13)]),method = 'ellipse', type = 'upper')
+modelci <- lm(ci_booking ~ ci_purpose + ci_decision + ci_overnight + ci_photogenuity + ci_postdescription, data = ci.df)
+summary (modelci)
+
+ci.aov <- aov(ci_booking ~ ci_purpose + ci_decision + ci_overnight + ci_photogenuity + ci_postdescription, data = ci.df)
+summary(ci.aov)
