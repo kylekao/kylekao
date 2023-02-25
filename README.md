@@ -27,8 +27,5 @@ You can click the Preview link to take a look at your changes.
 ##### [Global Marketing_Case Study Presentation-COSTA RICAN](https://github.com/kylekao/kylekao/blob/main/Global%20Marketing_Case%20Study%20Presentation-COSTA%20RICAN%20SW.pdf) -Case study of Costa Rican Software
 ### E.Survey Design & Data Collection
 1. Qualtrics Link : https://usfca.qualtrics.com/jfe/form/SV_3r5M3BP3jzI2j1s
-2. [Qualtric Report](https://github.com/kylekao/kylekao/blob/main/Survey%20Design%20%26%20Data%20Collection-Airbnb-qualtrics-report.pdf)
-2. Survey Design-codebooks
-3. Survey Design-Data analytics with R
-4. Survey Design-Final Data Analysis with Report
-5. Survey Design-Final Presentation 
+2. Survey Design-Data analytics with R [Part1-Consumer Insights](https://github.com/kylekao/kylekao/blob/main/ci.R)[Part2-App Interface](https://github.com/kylekao/kylekao/blob/main/apps.R)[Part3-Price](https://github.com/kylekao/kylekao/blob/main/price.R)[Part4-Promotion](https://github.com/kylekao/kylekao/blob/main/promo.R)[Part5-Safety/Security](https://github.com/kylekao/kylekao/blob/main/SS.R)
+3. Survey Design-[Final Data Analysis with Report](https://github.com/kylekao/kylekao/blob/4219e0aad366dd33553bb9df1199e3503ce8b162/Final%20Data%20Analysis%20with%20Report-Airbnb-Section1-Group3.pdf)
