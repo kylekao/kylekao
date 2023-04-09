@@ -6,7 +6,8 @@
 # My Projects
 ### A. Marketing Analytics
 [Time Series and Causal Analysis on finding out what causes Netflix subscribers changes](https://github.com/kylekao/kylekao/blob/main/NETFLIX%20FINAL%20PROJECT.pdf) | \
-[Time Series and Causal analysis code](https://github.com/kylekao/R/commit/50159a5930e0d1fd96af70f5524bca6ee865820e)
+[Time Series and Causal analysis code](https://github.com/kylekao/R/commit/50159a5930e0d1fd96af70f5524bca6ee865820e) \
+[Conjoint Analysis](https://github.com/kylekao/R/blob/e069df2ea323d8b324384d619e06736242cbba8d/conjoint.R)
 
 ### B. Survey Design & Data Collection
 1. Qualtrics Link : <https://usfca.qualtrics.com/jfe/form/SV_3r5M3BP3jzI2j1s>
