@@ -4,7 +4,7 @@
 [Google Analytics Certification](https://skillshop.credential.net/22fb8189-3b28-43c5-9f4e-c026e7e1ac13#gs.p0yfgu) | [Google Ads Search Certification](https://skillshop.credential.net/589e4bdf-eb37-424e-b500-e6ad137915de#gs.p0yhie)
 
 # My Projects
-### Practicum project - Making marketing positioning plan to help appointment scheduling software solution build trust and credibility in body modification industry
+### Practicum project – Projects: Vagaro Inc. Partnership: Conduct market research through surveys & in-depth interviews for insight into the Tattoo industry to understand growth opportunities and client pain points.
 
 ### A. Marketing Analytics
 [Time Series and Causal Analysis on finding out what causes Netflix subscribers changes](https://github.com/kylekao/kylekao/blob/main/NETFLIX%20FINAL%20PROJECT.pdf) | \
